@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/asdxrfx" target="blank"><img src="https://img.shields.io/twitter/follow/asdxrfx?logo=twitter&style=for-the-badge" alt="asdxrfx" /></a> </p>
 
-- 🔭 I’m currently working on [web store application](https://github.com/rasadov/Web-application)
+- 🔭 I’m currently working on **Saas project**
 
-- 🌱 I’m currently learning **Flask, PyTorch**
+- 🌱 I’m currently learning **Flask and Web Scraping**
 
-- 👯 I’m looking to collaborate on **web projects**
+- 👯 I’m looking to collaborate on **problem solving projects**
 
 - 📫 How to reach me **raufasadov23@gmail.com**
 
